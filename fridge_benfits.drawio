@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T00:47:09.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ldIMHrzETiB1TqfeEVos" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T01:00:50.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="gjmzYFbzWpoX4DzirkRM" version="13.8.7" type="github">
   <diagram id="PSb4c-wSjXPaK7_gSeyH" name="Page-1">
     <mxGraphModel dx="644" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,33 @@
         </mxCell>
         <mxCell id="-9Iq7wsF06XpDaZOXO5X-5" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-8" value="Supplies cooked food packages based given dietary preferences" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-9" value="Cleans the fridge from spills and left overs" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-12" value="System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-13" value="Curates profiles and demands" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-14" value="Provides dietary preference profiles" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-15" value="Search for food availability for the profile in nearest location" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-16" value="Maintains the food until expiration" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-17" value="Sells the food item" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-18" value="authenticates user and mantains balance" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
