@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T00:21:20.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qO-HSNzoe6UJPXjQuWnd" version="13.8.7" type="github"><diagram id="PSb4c-wSjXPaK7_gSeyH" name="Page-1">jZPdTsMwDIWfppdI7bJN2+UoY4BAIE0IibusNW1EUpfU3TqenpS4f0KTuKmcz8eJc5wGIjbNzsoyf8IUdDAL0yYQN8FstpzP3bcFZw/my4UHmVWpR9EA9uobGIZMa5VCNRESoiZVTmGCRQEJTZi0Fk9T2Qfq6amlzOAP2CdS/6VvKqXc09UiHPgdqCzvTo5CzhjZiRlUuUzxNEJiG4jYIpKPTBODbr3rfPF1txeyfWMWCvpPQbVbv0tafx0KfH691/HDKvm84l2OUtd84U1CaLljOnc2uObLNqyN9gJxfQRLyhn1KA+gX7BSpLBwkgMSoRkJNlplbYKwdDQno90iciHWpFUBcT+60EFuyNVCc/GmUe+fe3eABsienaQr6GbAb27Fy9MwQMEoH81uyUzyk8n6jQdXXcDGdsthgL+50V8gtj8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T00:47:09.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ldIMHrzETiB1TqfeEVos" version="13.8.7" type="github">
+  <diagram id="PSb4c-wSjXPaK7_gSeyH" name="Page-1">
+    <mxGraphModel dx="644" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sG9Zat9qbnoOUIlCJ8ck-1" value="Fridge" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-1" value="Service Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-4" value="Food Supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9Iq7wsF06XpDaZOXO5X-5" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
